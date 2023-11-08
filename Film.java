@@ -8,8 +8,6 @@ package ProjetVedio;
  *
  * @author 海棠春雪
  */
-public class Main {
-        public static void main(String[] args){
-       
-    }
+public class Film {
+    
 }
